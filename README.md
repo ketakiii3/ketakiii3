@@ -6,7 +6,7 @@ MS Computer Science (ML track) @ Columbia. I build things at the intersection of
 - 📈 ML Collaborator @ LivingScope Health — early diabetes detection on longitudinal patient data
 - 🏆 1st place, Columbia AI for Good Hackathon 2026 — built [Patrona](https://github.com/ketakiii3/patrona) in 36 hours
 - 🌱 Exploring quant finance, agentic systems, and efficient fine-tuning
-- ✍️ I write about grad school, tech, and other things on [Substack](https://substack.com/@ketaki) and at [k-in-tech.vercel.app](https://k-in-tech.vercel.app)
+- ✍️ I write about grad school, tech, and other things on [Substack](https://substack.com/@lifelatelywithkatie) and at [k-in-tech.vercel.app](https://k-in-tech.vercel.app)
 - ☕ Always looking for good coffee in NYC
 
 ---
@@ -52,8 +52,19 @@ MS Computer Science (ML track) @ Columbia. I build things at the intersection of
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
+
+**Statistics & Quant Finance**
+![](https://img.shields.io/badge/Time--Series_Analysis-4B8BBE?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/Monte_Carlo_Simulation-2E4057?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/Mean--Variance_Optimization-0A9396?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/Risk_Metrics_(VaR%2C_Sharpe%2C_Beta)-94D2BD?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/Statistical_Hypothesis_Testing-EE9B00?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/Regression_%26_Classification-CA6702?style=plastic&logoColor=white)
+![](https://img.shields.io/badge/SQL_%26_PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 
 **MLOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
