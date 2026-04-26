@@ -82,6 +82,4 @@ MS Computer Science (ML track) @ Columbia. I build things at the intersection of
 
 ---
 
-```
-if not now, when?
-```
+*in your 20s you'll have an important dream. chase it.*
