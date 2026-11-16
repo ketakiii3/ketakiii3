@@ -6,7 +6,6 @@ Graduate student at Columbia (MS Computer Science, ML track), currently building
 - 🔬 Previously Research Assistant @ **Columbia CRIS Lab**: LLM interpretability with sparse autoencoders, embedding emergence across 24 models and 5 model families
 - 🏆 1st place, Columbia AI for Good Hackathon 2026, built [Patrona](https://github.com/ketakiii3/patrona) in 36 hours
 - 📄 3 peer-reviewed publications (1 IEEE, 2 Springer)
-- ✍️ I write about grad school, tech, and other things on [Substack](https://substack.com/@lifelatelywithkatie) and at [k-in-tech.vercel.app](https://k-in-tech.vercel.app)
 - ☕ Always looking for good coffee in NYC
 
 ---
@@ -15,7 +14,7 @@ Graduate student at Columbia (MS Computer Science, ML track), currently building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketakidabade)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvd2112@columbia.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ketaki.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ketaki-dabade.com)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fsuG8lcAAAAJ)
 
 ---
@@ -26,7 +25,6 @@ Graduate student at Columbia (MS Computer Science, ML track), currently building
 |---------|-------------|-------|
 | [**PaperTrail**](https://github.com/ketakiii3/papertrail) | Catches contradictions between what companies say and what they later file with the SEC, with temporal reasoning and insider trading context | FastAPI · pgvector · Neo4j · FinBERT · LangChain |
 | [**Patrona**](https://github.com/ketakiii3/patrona) | Voice-first AI safety companion: silence detection, safe-word NLP, silent SMS alerts with live location | ElevenLabs · WebRTC · Supabase · Vercel |
-| [**Quant Dashboard**](https://github.com/ketakiii3/Quant-Portfolio-Returns-Dashboard) | Portfolio returns dashboard with 15+ risk metrics, mean-variance optimization, and Monte Carlo simulation | Streamlit · SciPy · Plotly · yfinance |
 | [**Cross-Lingual Hate Speech**](https://github.com/ketakiii3/Cross-Lingual-Transfer-for-Indic-Hate-Speech-Detection) | LoRA beats full fine-tuning on Hindi to Marathi transfer, F1 0.80 vs 0.39, updating 0.95% of parameters | PyTorch · HuggingFace · PEFT · IndicBERT-v2 |
 | [**EEG Brain-Computer Interface**](https://github.com/ketakiii3/EEG-Powered-Brain-Computer-Interface-for-3D-Hand-Gesture-Control) | 3D hand gesture control from raw EEG at 97.63% accuracy. First-author paper at IEEE ICICIS 2026 | Python · scikit-learn · Emotiv EPOC X |
 
